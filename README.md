@@ -15,7 +15,7 @@ FIRST DOWNLOAD
 
 6. Import regis.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/regis_inventory
+7.Run the script http://localhost/PharmacyInventory
 
 
 Username: admin
